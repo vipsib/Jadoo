@@ -1,2 +1,2 @@
 Jadoo
-Odoo with Java flavour
+Odoo 10 with Java flavour
